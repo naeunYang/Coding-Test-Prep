@@ -16,7 +16,6 @@
 # print(result)
 
 
-
 import sys
 
 # input() 대신 표준 입력, 리스트 컴프리헨션 사용하여 입력을 받음
