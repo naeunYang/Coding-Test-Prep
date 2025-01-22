@@ -7,3 +7,6 @@
   
 ### Sorting
 * [시리얼 번호](https://www.acmicpc.net/problem/1431)
+
+### Binary Search
+* [나무 자르기](https://www.acmicpc.net/problem/2805)
