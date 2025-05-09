@@ -10,3 +10,6 @@
 
 ### Binary Search
 * [나무 자르기](https://www.acmicpc.net/problem/2805)
+
+### Dynamic Programming
+* [정수 삼각형](https://www.acmicpc.net/problem/1932)
