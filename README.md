@@ -22,3 +22,4 @@
 - [설탕 배달](https://www.acmicpc.net/problem/2839)
 - [1로 만들기](https://www.acmicpc.net/problem/1463)
 - [포도주 시식](https://www.acmicpc.net/problem/2156)
+- [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
