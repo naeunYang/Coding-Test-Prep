@@ -8,6 +8,7 @@
 
 - [카약과 강풍](https://www.acmicpc.net/problem/2891)
 - [ATM](https://www.acmicpc.net/problem/11399)
+- [동전 0](https://www.acmicpc.net/problem/11047)
 
 ### Sorting
 
