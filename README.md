@@ -10,6 +10,7 @@
 - [ATM](https://www.acmicpc.net/problem/11399)
 - [동전 0](https://www.acmicpc.net/problem/11047)
 - [회의실 배정](https://www.acmicpc.net/problem/1931)
+- [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
 
 ### Sorting
 
