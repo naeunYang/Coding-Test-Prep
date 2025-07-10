@@ -13,6 +13,7 @@
 - [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
 - [주유소](https://www.acmicpc.net/problem/13305)
 - [A -> B](https://www.acmicpc.net/problem/16953)
+- [전자레인지](https://www.acmicpc.net/problem/10162)
 
 ### Sorting
 
